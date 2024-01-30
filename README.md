@@ -1,2 +1,2 @@
 Routes and jwt authentication
-for friends list app
+for mghenyu_app
